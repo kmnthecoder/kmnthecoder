@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently maintaining my [Persona 5 Fitbit Clock Face](https://github.com/kmnthecoder/Persona-5-Clock-Face)
 
-- 🌱 I’m currently learning **JavaScript, Data structures and Algorithms**
+- 🌱 I’m currently learning **JavaScript, Data Structures and Algorithms**
 
 - 📫 How to reach me **contactknguyen@gmail.com**
 
