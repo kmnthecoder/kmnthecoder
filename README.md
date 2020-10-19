@@ -1,3 +1,5 @@
+[![Header](https://raw.githubusercontent.com/kmnthecoder/kmnthecoder/main/github_banner.png "Header")](https://martinheinz.dev/)
+
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
 <h3 align="center">I'm a lifelong learner bringing value to the world by means of software</h3>
 
