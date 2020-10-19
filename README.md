@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at ...you are already here!
-
 - 📫 How to reach me **contactknguyen@gmail.com**
 
 
