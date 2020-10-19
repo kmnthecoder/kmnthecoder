@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kevin Nguyen</h1>
 <h3 align="center">I'm a lifelong learner bringing value to the world by means of software</h3>
 
-- 🔭 I’m currently working on [Persona 5 Fitbit Clock Face](https://github.com/kmnthecoder/Persona-5-Clock-Face)
+- 🔭 I’m currently maintaining my [Persona 5 Fitbit Clock Face](https://github.com/kmnthecoder/Persona-5-Clock-Face)
 
 - 🌱 I’m currently learning **JavaScript, Data structures and Algorithms**
 
